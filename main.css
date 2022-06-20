@@ -61,6 +61,7 @@ body {
     50% {
       transform: translate(150%, 150%);
       border-radius: 50%;
+        color: rad;
     }
   
     75% {
